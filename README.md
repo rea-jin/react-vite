@@ -16,6 +16,12 @@ npm コマンドでは、-- の後に記述されたオプションや引数は�
 --template react は、Vite に渡される引数で、テンプレートとして React を使用することを指定しています。これにより、Reactプロジェクトとしてセットアップされます。
 <br>
 
+### server start
+npm run dev
+<br>
+### build
+npm run build
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
